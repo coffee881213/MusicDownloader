@@ -7,8 +7,9 @@ core AI is Tencent Yuanbao.
 Detailed steps:
 
 1.下载/gitclone项目          Download/gitclone project
-Gitclone或者直接下载本项目的.zip文件
-Gitclone or download this project as .zip
+Gitclone或者直接下载本项目的.zip文件, 点击绿色的Code按钮，选择Local--Download Zip, 解压下载的zip文件
+Gitclone or download this project as .zip， click the green Code button, select Local--Download Zip, 
+unzip the .zip file  
 
 2.安装Python          Install Python
 安装Python,如果有任何问题，如在哪里下载Python，或者报错，请咨询腾讯元宝解决，
