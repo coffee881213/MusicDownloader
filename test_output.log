@@ -1,0 +1,287 @@
+2026-07-07 07:38:26,532 [INFO] [CN-ACCEL] China network acceleration ENABLED
+2026-07-07 07:38:26,565 [INFO] [CN-ACCEL]   aria2c connections : 16
+2026-07-07 07:38:26,565 [INFO] [CN-ACCEL]   GitHub mirror      : https://ghproxy.cn/
+2026-07-07 07:38:26,565 [INFO] [CN-ACCEL]   yt-dlp fragments   : 16 (iOS CDN client)
+2026-07-07 07:38:26,569 [INFO] [CN-ACCEL] aria2c found: C:\Users\Administrator\AppData\Local\Microsoft\WinGet\Links\aria2c.EXE
+2026-07-07 07:38:26,570 [INFO] ============================================================
+2026-07-07 07:38:26,570 [INFO] Hi-Res Music Downloader  [PARALLEL MODE]  24-bit/192kHz target
+2026-07-07 07:38:26,579 [INFO] Workers: 8 parallel song threads
+2026-07-07 07:38:26,580 [INFO] Audio  : Sockseek | Archive | FMA | Jamendo | YouTube | Bandcamp | NetEase | QQMusic | Kugou | Migu
+2026-07-07 07:38:26,580 [INFO] Lyrics : lrclib | NetEase | QQMusic | Musixmatch | Genius | megalobiz
+2026-07-07 07:38:26,580 [INFO] Playlist: QQ/NetEase/Kugou/Kuwo/Qishui/Migu/Spotify/YTMusic/AppleMusic
+2026-07-07 07:38:26,580 [INFO] ============================================================
+2026-07-07 07:38:26,580 [INFO] Sockseek: ./sockseek.exe
+2026-07-07 07:38:26,580 [INFO]   user=*** | pref-min-bitrate=3000 kbps | serialized (1 slot)
+2026-07-07 07:38:26,580 [INFO]   Output dir       : D:\MyMusic
+2026-07-07 07:38:26,581 [INFO]   Mode             : quality-upgrade (skip only if no better source found)
+2026-07-07 07:38:26,581 [INFO] ============================================================
+
+2026-07-07 07:38:26,581 [INFO] [PLAYLIST] Loading from local file: playlist.txt
+2026-07-07 07:38:26,582 [INFO] Playlist: 152 songs total
+2026-07-07 07:38:26,582 [INFO]   Total to process : 5
+2026-07-07 07:38:26,582 [INFO] ============================================================
+2026-07-07 07:38:26,585 [INFO] [3/5] START  人间烟火 - 程响  [no existing file]
+2026-07-07 07:38:26,586 [INFO] [4/5] START  Shell Shocked - Wiz Khalifa / Juicy J / Ty Dolla $ign / Kill The Noise  [no existing file]
+2026-07-07 07:38:26,586 [INFO] [2/5] START  恋爱画板 - 锦零  [existing: 恋爱画板 - 锦零.flac, score=80]
+2026-07-07 07:38:26,587 [INFO]   [1/10] Sockseek ...
+2026-07-07 07:38:26,587 [INFO]   [1/10] Sockseek ...
+2026-07-07 07:38:26,589 [INFO] [1/5] START  我想给你 - X玖少年团  [existing: 我想给你 - X玖少年团.flac, score=80]
+2026-07-07 07:38:26,591 [INFO]   [SOCKSEEK] 2 query variants for: 人间烟火
+2026-07-07 07:38:26,591 [INFO] [5/5] START  东西 - 西二  [existing: 东西 - 西二.flac, score=80]
+2026-07-07 07:38:26,591 [INFO]   [SOCKSEEK] Query [1/2]: '人间烟火 程响'
+2026-07-07 07:38:26,591 [INFO]   [SOCKSEEK] 3 query variants for: Shell Shocked
+2026-07-07 07:38:26,592 [INFO]   [1/10] Sockseek ...
+2026-07-07 07:38:26,593 [INFO]   [1/10] Sockseek ...
+2026-07-07 07:38:26,595 [INFO]   [1/10] Sockseek ...
+2026-07-07 07:38:26,598 [INFO]   [SOCKSEEK] 2 query variants for: 恋爱画板
+2026-07-07 07:38:26,599 [INFO]   [SOCKSEEK] 2 query variants for: 我想给你
+2026-07-07 07:38:26,599 [INFO]   [SOCKSEEK] 2 query variants for: 东西
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+[001] ExtractJob: String: Input: 人间烟火 程响
+[002] SongJob: searching: 人间烟火 程响
+2026-07-07 07:38:32,961 [INFO]   [LRC/lrclib] Found lyrics for: 人间烟火
+2026-07-07 07:38:33,619 [INFO]   [LRC/lrclib] Found lyrics for: Shell Shocked
+2026-07-07 07:38:33,690 [INFO]   [LRC/lrclib] Found lyrics for: 恋爱画板
+2026-07-07 07:38:34,929 [INFO]   [LRC/lrclib] Found lyrics for: 我想给你
+[002] SongJob: failed [No search results]: 人间烟火 程响
+    Error: No Soulseek file results found.
+
+[cli] Completed: 0 succeeded, 1 failed.
+2026-07-07 07:38:43,101 [INFO]   [SOCKSEEK] No results for query [1], trying next variant ...
+2026-07-07 07:38:43,102 [INFO]   [SOCKSEEK] Query [2/2]: '人间烟火'
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+[001] ExtractJob: String: Input: 人间烟火
+[002] SongJob: searching: 人间烟火
+[002] SongJob: downloading: 人间烟火: saintcom\..\_2307\琳谊 - 在某个角落努力的你 (2022) [FLAC]\03 - 琳谊 - 人间烟火.flac
+[warn] [jobs] [2] SongJob: download attempt failed: 人间烟火: saintcom\..\_2307\琳谊 - 在某个角落努力的你 (2022) [FLAC]\03 - 琳谊 - 人间烟火.flac
+    Output: D:\MyMusic\人间烟火 - 程响\.sk_tmp_人间烟火 - 程响\.sockseek-staging\d9aaac94dc44441b849ec11ea20f7d64\03 - 琳谊 - 人间烟火.flac.incomplete
+    Attempt: 1/1
+    StaleDownloadException: Download attempt became stale after 90000ms without peer transfer activity: saintcom\@@qmdmb\_2nd\_2307\琳谊 - 在某个角落努力的你 (2022) [FLAC]\03 - 琳谊 - 人间烟火.flac
+[002] SongJob: failed [All downloads failed]: 人间烟火
+    Error: Download attempt became stale after 90000ms without peer transfer activity: saintcom\@@qmdmb\_2nd\_2307\琳谊 - 在某个角落努力的你 (2022) [FLAC]\03 - 琳谊 - 人间烟火.flac
+
+[cli] Completed: 0 succeeded, 1 failed.
+2026-07-07 07:40:32,883 [INFO]   [SOCKSEEK] No results for query [2], trying next variant ...
+2026-07-07 07:40:32,883 [INFO]   [SOCKSEEK] Query [1/3]: 'Shell Shocked Wiz Khalifa'
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+2026-07-07 07:40:34,281 [WARNING]   [SOCKSEEK] All 2 query variants failed: 人间烟火 - 程响
+2026-07-07 07:40:34,282 [INFO]   [2/10] Internet Archive ...
+[001] ExtractJob: String: Input: Shell Shocked Wiz Khalifa
+[002] SongJob: searching: Shell Shocked Wiz Khalifa
+[002] SongJob: downloading: Shell Shocked Wiz Khalifa: bobbytragicradio\..\Rich's Jukebox 1964-2024\2014 HOT 100\Juicy J, Wiz Khalifa & Ty Dolla $ign - Shell Shocked.flac
+2026-07-07 07:41:06,367 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 07:41:09,160 [INFO]   [4/10] Jamendo ...
+2026-07-07 07:41:11,961 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:人间烟火 程响 official audio
+[download] Downloading playlist: 人间烟火 程响 official audio
+[youtube:search] query "人间烟火 程响 official audio": Downloading web client config
+[youtube:search] query "人间烟火 程响 official audio" page 1: Downloading API JSON
+[youtube:search] Playlist 人间烟火 程响 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lxPybHy4SoM
+[youtube] lxPybHy4SoM: Downloading webpage
+2026-07-07 07:41:18,721 [WARNING]   [YTDLP] Error: 'NoneType' object has no attribute 'get'
+2026-07-07 07:41:18,722 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 07:41:19,064 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 07:41:21,337 [INFO]   [NETEASE] No results for: 人间烟火 - 程响
+2026-07-07 07:41:21,338 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 07:41:23,636 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 07:41:25,893 [INFO]   [KUGOU] No results for: 人间烟火 - 程响
+2026-07-07 07:41:25,894 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 07:41:28,376 [ERROR] [3/5] FAIL   No audio found: 人间烟火 - 程响
+2026-07-07 07:41:28,377 [INFO] [3/5] LRC    Already exists, skipped fetch.
+2026-07-07 07:41:28,377 [INFO] [3/5] DONE   人间烟火 - 程响
+2026-07-07 07:41:28,387 [INFO] [PROGRESS] 1/5 done  | audio=0  flac=0  24bit=0  lrc=1  kept=0
+[002] SongJob: succeeded: Shell Shocked Wiz Khalifa: bobbytragicradio\..\Rich's Jukebox 1964-2024\2014 HOT 100\Juicy J, Wiz Khalifa & Ty Dolla $ign - Shell Shocked.flac
+2026-07-07 07:42:12,256 [INFO]   [SOCKSEEK] Got (query [1]): Shell Shocked - Wiz Khalifa _ Juicy J _ Ty Dolla $ign _ Kill The Noise.flac (25.3 MB)
+2026-07-07 07:42:13,343 [INFO]   [SOCKSEEK] Query [1/2]: '恋爱画板 锦零'
+2026-07-07 07:42:13,344 [INFO]         Quality score: 70 | .FLAC | BETTER than existing (0)
+2026-07-07 07:42:13,344 [INFO]   [2/10] Internet Archive ...
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+[001] ExtractJob: String: Input: 恋爱画板 锦零
+[002] SongJob: searching: 恋爱画板 锦零
+[002] SongJob: failed [No search results]: 恋爱画板 锦零
+    Error: No Soulseek file results found.
+
+[cli] Completed: 0 succeeded, 1 failed.
+2026-07-07 07:42:29,948 [INFO]   [SOCKSEEK] No results for query [1], trying next variant ...
+2026-07-07 07:42:29,949 [INFO]   [SOCKSEEK] Query [2/2]: '恋爱画板'
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+[001] ExtractJob: String: Input: 恋爱画板
+[002] SongJob: searching: 恋爱画板
+2026-07-07 07:42:45,435 [INFO]   [3/10] Free Music Archive ...
+[002] SongJob: failed [No search results]: 恋爱画板
+    Error: No Soulseek file results found.
+
+[cli] Completed: 0 succeeded, 1 failed.
+2026-07-07 07:42:46,431 [INFO]   [SOCKSEEK] No results for query [2], trying next variant ...
+2026-07-07 07:42:46,431 [INFO]   [SOCKSEEK] Query [1/2]: '我想给你 X玖少年团'
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+2026-07-07 07:42:47,624 [WARNING]   [SOCKSEEK] All 2 query variants failed: 恋爱画板 - 锦零
+2026-07-07 07:42:47,625 [INFO]   [2/10] Internet Archive ...
+[001] ExtractJob: String: Input: 我想给你 X玖少年团
+[002] SongJob: searching: 我想给你 X玖少年团
+2026-07-07 07:42:48,324 [INFO]   [4/10] Jamendo ...
+2026-07-07 07:42:51,088 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:Shell Shocked Wiz Khalifa official audio
+[download] Downloading playlist: Shell Shocked Wiz Khalifa official audio
+[youtube:search] query "Shell Shocked Wiz Khalifa official audio": Downloading web client config
+[youtube:search] query "Shell Shocked Wiz Khalifa official audio" page 1: Downloading API JSON
+[youtube:search] Playlist Shell Shocked Wiz Khalifa official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=KUI_MKKIBdA
+[youtube] KUI_MKKIBdA: Downloading webpage
+2026-07-07 07:42:57,380 [WARNING]   [YTDLP] Error: 'NoneType' object has no attribute 'get'
+2026-07-07 07:42:57,381 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 07:42:57,424 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 07:42:59,687 [INFO]   [NETEASE] No results for: Shell Shocked - Wiz Khalifa
+2026-07-07 07:42:59,689 [INFO]   [8/10] QQ Music (QQ音乐) ...
+[002] SongJob: failed [No search results]: 我想给你 X玖少年团
+    Error: No Soulseek file results found.
+
+[cli] Completed: 0 succeeded, 1 failed.
+2026-07-07 07:43:03,190 [INFO]   [SOCKSEEK] No results for query [1], trying next variant ...
+2026-07-07 07:43:03,190 [INFO]   [SOCKSEEK] Query [2/2]: '我想给你'
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+[001] ExtractJob: String: Input: 我想给你
+[002] SongJob: searching: 我想给你
+2026-07-07 07:43:06,963 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 07:43:09,176 [INFO]   [KUGOU] No results for: Shell Shocked - Wiz Khalifa
+2026-07-07 07:43:09,177 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 07:43:11,573 [INFO] [4/5] AUDIO  Sockseek | score=70 | .FLAC | below target
+2026-07-07 07:43:11,573 [INFO] [4/5] LRC    Already exists, skipped fetch.
+2026-07-07 07:43:11,574 [INFO] [4/5] DONE   Shell Shocked - Wiz Khalifa / Juicy J / Ty Dolla $ign / Kill The Noise
+2026-07-07 07:43:11,574 [INFO] [PROGRESS] 2/5 done  | audio=1  flac=1  24bit=0  lrc=2  kept=0
+2026-07-07 07:43:19,688 [INFO]   [3/10] Free Music Archive ...
+[002] SongJob: failed [No search results]: 我想给你
+    Error: No Soulseek file results found.
+
+[cli] Completed: 0 succeeded, 1 failed.
+2026-07-07 07:43:20,700 [INFO]   [SOCKSEEK] No results for query [2], trying next variant ...
+2026-07-07 07:43:20,700 [INFO]   [SOCKSEEK] Query [1/2]: '东西 西二'
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+2026-07-07 07:43:21,915 [WARNING]   [SOCKSEEK] All 2 query variants failed: 我想给你 - X玖少年团
+2026-07-07 07:43:21,915 [INFO]   [2/10] Internet Archive ...
+[001] ExtractJob: String: Input: 东西 西二
+[002] SongJob: searching: 东西 西二
+2026-07-07 07:43:22,495 [INFO]   [4/10] Jamendo ...
+2026-07-07 07:43:25,302 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:恋爱画板 锦零 official audio
+[download] Downloading playlist: 恋爱画板 锦零 official audio
+[youtube:search] query "恋爱画板 锦零 official audio": Downloading web client config
+[youtube:search] query "恋爱画板 锦零 official audio" page 1: Downloading API JSON
+[youtube:search] Playlist 恋爱画板 锦零 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wjFhM5GxS4s
+[youtube] wjFhM5GxS4s: Downloading webpage
+2026-07-07 07:43:31,657 [WARNING]   [YTDLP] Error: 'NoneType' object has no attribute 'get'
+2026-07-07 07:43:31,658 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 07:43:31,701 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 07:43:33,922 [INFO]   [NETEASE] No results for: 恋爱画板 - 锦零
+2026-07-07 07:43:33,923 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 07:43:36,193 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+[002] SongJob: failed [No search results]: 东西 西二
+    Error: No Soulseek file results found.
+
+[cli] Completed: 0 succeeded, 1 failed.
+2026-07-07 07:43:37,440 [INFO]   [SOCKSEEK] No results for query [1], trying next variant ...
+2026-07-07 07:43:37,440 [INFO]   [SOCKSEEK] Query [2/2]: '东西'
+[cli] Starting CLI session in local mode
+  [SOCKSEEK] Logging in user account...
+2026-07-07 07:43:38,402 [INFO]   [KUGOU] No results for: 恋爱画板 - 锦零
+2026-07-07 07:43:38,403 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+[001] ExtractJob: String: Input: 东西
+[002] SongJob: searching: 东西
+2026-07-07 07:43:40,844 [INFO] [2/5] SKIP   No better quality found — keeping: 恋爱画板 - 锦零.flac (score=80)
+2026-07-07 07:43:40,844 [INFO] [2/5] LRC    Already exists, skipped fetch.
+2026-07-07 07:43:40,844 [INFO] [2/5] DONE   恋爱画板 - 锦零
+2026-07-07 07:43:40,844 [INFO] [PROGRESS] 3/5 done  | audio=2  flac=2  24bit=0  lrc=3  kept=1
+2026-07-07 07:43:53,983 [INFO]   [3/10] Free Music Archive ...
+[002] SongJob: failed [No search results]: 东西
+    Error: No Soulseek file results found.
+
+[cli] Completed: 0 succeeded, 1 failed.
+2026-07-07 07:43:54,427 [INFO]   [SOCKSEEK] No results for query [2], trying next variant ...
+2026-07-07 07:43:55,550 [WARNING]   [SOCKSEEK] All 2 query variants failed: 东西 - 西二
+2026-07-07 07:43:55,551 [INFO]   [2/10] Internet Archive ...
+2026-07-07 07:43:56,817 [INFO]   [4/10] Jamendo ...
+2026-07-07 07:43:59,626 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:我想给你 X玖少年团 official audio
+[download] Downloading playlist: 我想给你 X玖少年团 official audio
+[youtube:search] query "我想给你 X玖少年团 official audio": Downloading web client config
+[youtube:search] query "我想给你 X玖少年团 official audio" page 1: Downloading API JSON
+[youtube:search] Playlist 我想给你 X玖少年团 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GndbZTJsyHc
+[youtube] GndbZTJsyHc: Downloading webpage
+2026-07-07 07:44:05,674 [WARNING]   [YTDLP] Error: 'NoneType' object has no attribute 'get'
+2026-07-07 07:44:05,675 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 07:44:05,718 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 07:44:19,668 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 07:44:21,923 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 07:44:24,127 [INFO]   [KUGOU] No results for: 我想给你 - X玖少年团
+2026-07-07 07:44:24,128 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 07:44:26,563 [INFO] [1/5] SKIP   No better quality found — keeping: 我想给你 - X玖少年团.flac (score=80)
+2026-07-07 07:44:26,564 [INFO] [1/5] LRC    Already exists, skipped fetch.
+2026-07-07 07:44:26,564 [INFO] [1/5] DONE   我想给你 - X玖少年团
+2026-07-07 07:44:26,564 [INFO] [PROGRESS] 4/5 done  | audio=3  flac=3  24bit=0  lrc=4  kept=2
+2026-07-07 07:44:27,643 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 07:44:30,491 [INFO]   [4/10] Jamendo ...
+2026-07-07 07:44:33,362 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:东西 西二 official audio
+[download] Downloading playlist: 东西 西二 official audio
+[youtube:search] query "东西 西二 official audio": Downloading web client config
+[youtube:search] query "东西 西二 official audio" page 1: Downloading API JSON
+[youtube:search] Playlist 东西 西二 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Th8UeeeF11E
+[youtube] Th8UeeeF11E: Downloading webpage
+2026-07-07 07:44:39,991 [WARNING]   [YTDLP] Error: 'NoneType' object has no attribute 'get'
+2026-07-07 07:44:39,991 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 07:44:40,034 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 07:44:42,947 [INFO]   [NETEASE] No results for: 东西 - 西二
+2026-07-07 07:44:42,948 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 07:44:46,064 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 07:44:48,281 [INFO]   [KUGOU] No results for: 东西 - 西二
+2026-07-07 07:44:48,282 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 07:44:50,762 [INFO] [5/5] SKIP   No better quality found — keeping: 东西 - 西二.flac (score=80)
+2026-07-07 07:44:50,762 [INFO] [5/5] DONE   东西 - 西二
+2026-07-07 07:44:50,762 [INFO] [PROGRESS] 5/5 done  | audio=4  flac=4  24bit=0  lrc=5  kept=3
+2026-07-07 07:44:50,764 [INFO] 
+============================================================
+2026-07-07 07:44:50,764 [INFO] All downloads complete!  Summary:
+2026-07-07 07:44:50,764 [INFO]   Total songs        : 5
+2026-07-07 07:44:50,764 [INFO]   Download success   : 4
+2026-07-07 07:44:50,764 [INFO]   Download failed    : 1
+2026-07-07 07:44:50,764 [INFO]   Kept (no upgrade)  : 3
+2026-07-07 07:44:50,764 [INFO]   FLAC / Lossless    : 4
+2026-07-07 07:44:50,764 [INFO]   24-bit/192kHz+     : 0
+2026-07-07 07:44:50,765 [INFO]   OST / Soundtrack   : 0
+2026-07-07 07:44:50,765 [INFO]   Lyrics             : 5
+2026-07-07 07:44:50,765 [INFO]   Report             : C:\Users\Administrator\WorkBuddy\2026-07-06-23-54-27\download_report.json
+2026-07-07 07:44:50,766 [INFO]   Log                : C:\Users\Administrator\WorkBuddy\2026-07-06-23-54-27\download_log.txt
+2026-07-07 07:44:50,766 [INFO] ============================================================
+2026-07-07 07:44:50,766 [INFO] 
+[FAILED]  1 songs — no audio found on any source:
+2026-07-07 07:44:50,767 [INFO]   ✗ 人间烟火 - 程响
+2026-07-07 07:44:50,767 [INFO] 
+[FLAC / Lossless]  4 tracks:
+2026-07-07 07:44:50,767 [INFO]     1. Shell Shocked - Wiz Khalifa / Juicy J / Ty Dolla $ign / Kill The Noise  [16bit FLAC | Sockseek]
+2026-07-07 07:44:50,767 [INFO]     2. 恋爱画板 - 锦零  [24bit/44-48kHz | ?]
+2026-07-07 07:44:50,767 [INFO]     3. 我想给你 - X玖少年团  [24bit/44-48kHz | ?]
+2026-07-07 07:44:50,767 [INFO]     4. 东西 - 西二  [24bit/44-48kHz | ?]
+2026-07-07 07:44:50,768 [INFO] 
+[LYRICS]  5 lyrics downloaded:
+2026-07-07 07:44:50,768 [INFO]     1. 人间烟火 - 程响  [人间烟火 - 程响.lrc]
+2026-07-07 07:44:50,768 [INFO]     2. Shell Shocked - Wiz Khalifa / Juicy J / Ty Dolla $ign / Kill The Noise  [Shell Shocked - Wiz Khalifa _ Juicy J _ Ty Dolla $ign _ Kill The Noise.lrc]
+2026-07-07 07:44:50,768 [INFO]     3. 恋爱画板 - 锦零  [恋爱画板 - 锦零.lrc]
+2026-07-07 07:44:50,768 [INFO]     4. 我想给你 - X玖少年团  [我想给你 - X玖少年团.lrc]
+2026-07-07 07:44:50,768 [INFO]     5. 东西 - 西二  [东西 - 西二.lrc]

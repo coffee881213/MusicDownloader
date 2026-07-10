@@ -1,0 +1,429 @@
+2026-07-07 09:32:05,919 [INFO] [CN-ACCEL] China network acceleration ENABLED
+2026-07-07 09:32:05,935 [INFO] [CN-ACCEL]   aria2c connections : 16
+2026-07-07 09:32:05,935 [INFO] [CN-ACCEL]   GitHub mirror      : https://ghproxy.cn/
+2026-07-07 09:32:05,935 [INFO] [CN-ACCEL]   yt-dlp fragments   : 16 (iOS CDN client)
+2026-07-07 09:32:05,940 [INFO] [CN-ACCEL] aria2c found: C:\Users\Administrator\AppData\Local\Microsoft\WinGet\Links\aria2c.EXE
+2026-07-07 09:32:05,941 [INFO] Resume state: 7 entries loaded
+2026-07-07 09:32:05,941 [INFO] ============================================================
+2026-07-07 09:32:05,941 [INFO] Hi-Res Music Downloader  [PARALLEL MODE]  24-bit/192kHz target
+2026-07-07 09:32:05,941 [INFO] Workers: 4 parallel song threads
+2026-07-07 09:32:05,942 [INFO] Audio  : Sockseek | Archive | FMA | Jamendo | YouTube | Bandcamp | NetEase | QQMusic | Kugou | Migu
+2026-07-07 09:32:05,942 [INFO] Lyrics : lrclib | NetEase | QQMusic | Musixmatch | Genius | megalobiz
+2026-07-07 09:32:05,942 [INFO] Playlist: QQ/NetEase/Kugou/Kuwo/Qishui/Migu/Spotify/YTMusic/AppleMusic
+2026-07-07 09:32:05,942 [INFO] ============================================================
+2026-07-07 09:32:05,942 [INFO] Sockseek: disabled (no credentials)
+2026-07-07 09:32:05,943 [INFO]   Output dir       : D:\MyMusic
+2026-07-07 09:32:05,943 [INFO]   Mode             : quality-upgrade (skip only if no better source found)
+2026-07-07 09:32:05,943 [INFO] ============================================================
+
+2026-07-07 09:32:05,943 [INFO] [PLAYLIST] Loading from local file: test_playlist_10.txt
+2026-07-07 09:32:05,944 [INFO] Playlist: 10 songs total
+2026-07-07 09:32:05,944 [INFO]   Total to process : 10
+2026-07-07 09:32:05,944 [INFO] ============================================================
+2026-07-07 09:32:05,947 [INFO] [2/10] START  人间烟火 - 程响  [no existing file]
+2026-07-07 09:32:05,948 [INFO] [3/10] START  彩虹 - 乔楚熙  [no existing file]
+2026-07-07 09:32:05,948 [INFO] [4/10] START  月光 - 胡彦斌  [no existing file]
+2026-07-07 09:32:05,949 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:32:05,949 [INFO] [1/10] START  我想给你 - X玖少年团  [existing: 我想给你 - X玖少年团.flac, score=80]
+2026-07-07 09:32:05,950 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:32:05,950 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:32:05,952 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:32:05,954 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:32:05,954 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:32:05,957 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:32:05,957 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:32:11,600 [INFO]   [LRC/lrclib] Found lyrics for: 月光
+2026-07-07 09:32:11,973 [INFO]   [LRC/lrclib] Found lyrics for: 我想给你
+2026-07-07 09:32:14,316 [INFO]   [LRC/lrclib] Found lyrics for: 人间烟火
+2026-07-07 09:32:21,849 [INFO]   [LRC/NetEase] Found lyrics for: 彩虹
+2026-07-07 09:32:38,045 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:32:38,045 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:32:38,045 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:32:38,045 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:32:41,126 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:32:41,139 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:32:41,265 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:32:41,303 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:32:43,965 [INFO]   [5/10] YouTube (yt-dlp) ...
+2026-07-07 09:32:43,984 [INFO]   [5/10] YouTube (yt-dlp) ...
+2026-07-07 09:32:44,089 [INFO]   [5/10] YouTube (yt-dlp) ...
+2026-07-07 09:32:44,094 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:月光 胡彦斌 official audio
+[youtube:search] Extracting URL: ytsearch1:彩虹 乔楚熙 official audio
+[download] Downloading playlist: 月光 胡彦斌 official audio
+[youtube:search] Extracting URL: ytsearch1:我想给你 X玖少年团 official audio
+[download] Downloading playlist: 彩虹 乔楚熙 official audio
+[youtube:search] query "月光 胡彦斌 official audio": Downloading web client config
+[youtube:search] Extracting URL: ytsearch1:人间烟火 程响 official audio
+[download] Downloading playlist: 我想给你 X玖少年团 official audio
+[youtube:search] query "我想给你 X玖少年团 official audio": Downloading web client config
+[download] Downloading playlist: 人间烟火 程响 official audio
+[youtube:search] query "彩虹 乔楚熙 official audio": Downloading web client config
+[youtube:search] query "人间烟火 程响 official audio": Downloading web client config
+[youtube:search] query "月光 胡彦斌 official audio" page 1: Downloading API JSON
+[youtube:search] query "我想给你 X玖少年团 official audio" page 1: Downloading API JSON
+[youtube:search] query "彩虹 乔楚熙 official audio" page 1: Downloading API JSON
+[youtube:search] query "人间烟火 程响 official audio" page 1: Downloading API JSON
+[youtube:search] Playlist 彩虹 乔楚熙 official audio: Downloading 0 items
+[download] Finished downloading playlist: 彩虹 乔楚熙 official audio
+2026-07-07 09:32:49,799 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+[youtube:search] Playlist 月光 胡彦斌 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=YShAStNSCxQ
+[youtube] YShAStNSCxQ: Downloading webpage
+[youtube:search] Playlist 人间烟火 程响 official audio: Downloading 1 items of 1
+[youtube:search] Playlist 我想给你 X玖少年团 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7hslH5fClIM
+[youtube] 7hslH5fClIM: Downloading webpage
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lxPybHy4SoM
+[youtube] lxPybHy4SoM: Downloading webpage
+2026-07-07 09:32:50,164 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+[youtube] YShAStNSCxQ: Downloading web client config
+[youtube] 7hslH5fClIM: Downloading web client config
+[youtube] lxPybHy4SoM: Downloading web client config
+[youtube] YShAStNSCxQ: Downloading web player API JSON
+[youtube] 7hslH5fClIM: Downloading web player API JSON
+[youtube] lxPybHy4SoM: Downloading web player API JSON
+[youtube] YShAStNSCxQ: Downloading android player API JSON
+[youtube] 7hslH5fClIM: Downloading android player API JSON
+[youtube] lxPybHy4SoM: Downloading android player API JSON
+[youtube] YShAStNSCxQ: Downloading ios player API JSON
+[youtube] 7hslH5fClIM: Downloading ios player API JSON
+[youtube] lxPybHy4SoM: Downloading ios player API JSON
+WARNING: [youtube] YShAStNSCxQ: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] YShAStNSCxQ: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] YShAStNSCxQ: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:32:53,339 [WARNING]   [YTDLP] Error: ERROR: [youtube] YShAStNSCxQ: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:32:53,339 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:32:53,383 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+WARNING: [youtube] 7hslH5fClIM: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] 7hslH5fClIM: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] 7hslH5fClIM: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:32:53,545 [WARNING]   [YTDLP] Error: ERROR: [youtube] 7hslH5fClIM: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:32:53,545 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:32:53,587 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+WARNING: [youtube] lxPybHy4SoM: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] lxPybHy4SoM: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] lxPybHy4SoM: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] lxPybHy4SoM: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] lxPybHy4SoM: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:32:53,808 [WARNING]   [YTDLP] Error: ERROR: [youtube] lxPybHy4SoM: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:32:53,808 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:32:53,851 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 09:33:04,670 [INFO]   [NETEASE] Outer URL → FLAC: 彩虹 - 乔楚熙_ne.flac (42.9 MB)
+2026-07-07 09:33:04,675 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:33:04,675 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:33:07,605 [INFO]   [NETEASE] Outer URL → FLAC: 人间烟火 - 程响_ne.flac (38.9 MB)
+2026-07-07 09:33:07,609 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:33:07,610 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:33:09,447 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 09:33:12,174 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 09:33:17,811 [INFO]   [KUGOU] STD (128kbps) → FLAC: 彩虹 - 乔楚熙_kg.flac (13.3 MB)
+2026-07-07 09:33:17,814 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:33:17,814 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:33:19,569 [INFO]   [NETEASE] Outer URL → FLAC: 月光 - 胡彦斌_ne.flac (53.8 MB)
+2026-07-07 09:33:19,573 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:33:19,574 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:33:21,132 [INFO]   [KUGOU] STD (128kbps) → FLAC: 人间烟火 - 程响_kg.flac (19.7 MB)
+2026-07-07 09:33:21,135 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:33:21,135 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:33:29,003 [INFO]   [QQMUSIC] Downloaded FLAC: 月光 - 胡彦斌_qq.flac (0.3 MB)
+2026-07-07 09:33:29,006 [INFO]         Quality score: 70 | .FLAC | BETTER than existing (0)
+2026-07-07 09:33:29,007 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 09:33:30,868 [INFO]   [NETEASE] Outer URL → FLAC: 我想给你 - X玖少年团_ne.flac (44.6 MB)
+2026-07-07 09:33:30,873 [INFO]         Quality score: 80 | .FLAC | NOT better than existing (80) — discarded
+2026-07-07 09:33:30,873 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:33:34,773 [INFO] [3/10] AUDIO  NetEase (网易云音乐) | score=80 | .FLAC | below target
+2026-07-07 09:33:34,773 [INFO] [3/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:33:34,773 [INFO] [3/10] DONE   彩虹 - 乔楚熙
+2026-07-07 09:33:34,774 [INFO] [PROGRESS] 1/10 done  | audio=1  flac=1  24bit=0  lrc=1  kept=0
+2026-07-07 09:33:34,775 [INFO] [5/10] START  一直很安静 - 阿桑  [no existing file]
+2026-07-07 09:33:34,776 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:33:34,776 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:33:35,397 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 09:33:37,204 [INFO]   [KUGOU] STD (128kbps) → FLAC: 月光 - 胡彦斌_kg.flac (14.1 MB)
+2026-07-07 09:33:37,207 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:33:37,207 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:33:37,756 [INFO] [2/10] AUDIO  NetEase (网易云音乐) | score=80 | .FLAC | below target
+2026-07-07 09:33:37,756 [INFO] [2/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:33:37,756 [INFO] [2/10] DONE   人间烟火 - 程响
+2026-07-07 09:33:37,756 [INFO] [PROGRESS] 2/10 done  | audio=2  flac=2  24bit=0  lrc=2  kept=0
+2026-07-07 09:33:37,767 [INFO] [6/10] START  紅蓮華 - LiSA  [existing: 紅蓮華 - LiSA.flac, score=80]
+2026-07-07 09:33:37,768 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:33:37,769 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:33:40,252 [INFO]   [LRC/lrclib] Found lyrics for: 一直很安静
+2026-07-07 09:33:42,749 [INFO]   [LRC/lrclib] Found lyrics for: 紅蓮華
+2026-07-07 09:33:44,228 [INFO]   [KUGOU] STD (128kbps) → FLAC: 我想给你 - X玖少年团_kg.flac (42.2 MB)
+2026-07-07 09:33:44,231 [INFO]         Quality score: 80 | .FLAC | NOT better than existing (80) — discarded
+2026-07-07 09:33:44,231 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:33:53,969 [INFO] [4/10] AUDIO  NetEase (网易云音乐) | score=80 | .FLAC | below target
+2026-07-07 09:33:53,969 [INFO] [4/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:33:53,969 [INFO] [4/10] DONE   月光 - 胡彦斌
+2026-07-07 09:33:53,969 [INFO] [PROGRESS] 3/10 done  | audio=3  flac=3  24bit=0  lrc=3  kept=0
+2026-07-07 09:33:53,970 [INFO] [7/10] START  All The Things She Said - t.A.T.u  [no existing file]
+2026-07-07 09:33:53,971 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:33:53,972 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:33:58,917 [INFO]   [LRC/lrclib] Found lyrics for: All The Things She Said
+2026-07-07 09:34:01,040 [INFO] [1/10] SKIP   No better quality found — keeping: 我想给你 - X玖少年团.flac (score=80)
+2026-07-07 09:34:01,040 [INFO] [1/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:34:01,040 [INFO] [1/10] DONE   我想给你 - X玖少年团
+2026-07-07 09:34:01,040 [INFO] [PROGRESS] 4/10 done  | audio=4  flac=4  24bit=0  lrc=4  kept=1
+2026-07-07 09:34:01,041 [INFO] [8/10] START  Gee (Korean Ver.) - 少女时代  [no existing file]
+2026-07-07 09:34:01,042 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:34:01,042 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:34:06,844 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:34:09,850 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:34:09,883 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:34:12,622 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:一直很安静 阿桑 official audio
+[download] Downloading playlist: 一直很安静 阿桑 official audio
+[youtube:search] query "一直很安静 阿桑 official audio": Downloading web client config
+2026-07-07 09:34:12,866 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:34:15,630 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:紅蓮華 LiSA official audio
+[download] Downloading playlist: 紅蓮華 LiSA official audio
+[youtube:search] query "紅蓮華 LiSA official audio": Downloading web client config
+2026-07-07 09:34:15,884 [INFO]   [LRC/NetEase] Found lyrics for: Gee (Korean Ver.)
+[youtube:search] query "一直很安静 阿桑 official audio" page 1: Downloading API JSON
+[youtube:search] Playlist 一直很安静 阿桑 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=6W1zL-TzPCU
+[youtube] 6W1zL-TzPCU: Downloading webpage
+[youtube] 6W1zL-TzPCU: Downloading web client config
+[youtube] 6W1zL-TzPCU: Downloading web player API JSON
+[youtube] 6W1zL-TzPCU: Downloading android player API JSON
+[youtube:search] query "紅蓮華 LiSA official audio" page 1: Downloading API JSON
+[youtube] 6W1zL-TzPCU: Downloading ios player API JSON
+[youtube:search] Playlist 紅蓮華 LiSA official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=x1FV6IrjZCY
+[youtube] x1FV6IrjZCY: Downloading webpage
+WARNING: [youtube] 6W1zL-TzPCU: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] 6W1zL-TzPCU: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] 6W1zL-TzPCU: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] 6W1zL-TzPCU: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] 6W1zL-TzPCU: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:34:21,434 [WARNING]   [YTDLP] Error: ERROR: [youtube] 6W1zL-TzPCU: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:34:21,435 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:34:21,477 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+[youtube] x1FV6IrjZCY: Downloading web client config
+[youtube] x1FV6IrjZCY: Downloading web player API JSON
+[youtube] x1FV6IrjZCY: Downloading android player API JSON
+[youtube] x1FV6IrjZCY: Downloading ios player API JSON
+WARNING: [youtube] x1FV6IrjZCY: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] x1FV6IrjZCY: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] x1FV6IrjZCY: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:34:24,553 [WARNING]   [YTDLP] Error: ERROR: [youtube] x1FV6IrjZCY: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:34:24,553 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:34:24,595 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 09:34:26,088 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:34:28,903 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:34:31,778 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:All The Things She Said t.A.T.u official audio
+[download] Downloading playlist: All The Things She Said t.A.T.u official audio
+[youtube:search] query "All The Things She Said t.A.T.u official audio": Downloading web client config
+2026-07-07 09:34:33,116 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:34:35,076 [INFO]   [NETEASE] Outer URL → FLAC: 一直很安静 - 阿桑_ne.flac (42.0 MB)
+2026-07-07 09:34:35,080 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:34:35,080 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:34:36,173 [INFO]   [4/10] Jamendo ...
+[youtube:search] query "All The Things She Said t.A.T.u official audio" page 1: Downloading API JSON
+[youtube:search] Playlist All The Things She Said t.A.T.u official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=t0KnuIGOb9I
+[youtube] t0KnuIGOb9I: Downloading webpage
+[youtube] t0KnuIGOb9I: Downloading web client config
+[youtube] t0KnuIGOb9I: Downloading web player API JSON
+2026-07-07 09:34:38,959 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:Gee (Korean Ver.) 少女时代 official audio
+[download] Downloading playlist: Gee (Korean Ver.) 少女时代 official audio
+[youtube:search] query "Gee (Korean Ver.) 少女时代 official audio": Downloading web client config
+[youtube] t0KnuIGOb9I: Downloading android player API JSON
+[youtube] t0KnuIGOb9I: Downloading ios player API JSON
+WARNING: [youtube] t0KnuIGOb9I: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] t0KnuIGOb9I: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] t0KnuIGOb9I: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] t0KnuIGOb9I: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] t0KnuIGOb9I: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:34:40,498 [WARNING]   [YTDLP] Error: ERROR: [youtube] t0KnuIGOb9I: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:34:40,498 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:34:40,540 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+[youtube:search] query "Gee (Korean Ver.) 少女时代 official audio" page 1: Downloading API JSON
+[youtube:search] Playlist Gee (Korean Ver.) 少女时代 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=12OHeq-qYwI
+[youtube] 12OHeq-qYwI: Downloading webpage
+[youtube] 12OHeq-qYwI: Downloading web client config
+2026-07-07 09:34:45,645 [INFO]   [QQMUSIC] Downloaded FLAC: 一直很安静 - 阿桑_qq.flac (3.2 MB)
+2026-07-07 09:34:45,649 [INFO]         Quality score: 70 | .FLAC | BETTER than existing (0)
+2026-07-07 09:34:45,649 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+[youtube] 12OHeq-qYwI: Downloading web player API JSON
+[youtube] 12OHeq-qYwI: Downloading android player API JSON
+[youtube] 12OHeq-qYwI: Downloading ios player API JSON
+WARNING: [youtube] 12OHeq-qYwI: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] 12OHeq-qYwI: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] 12OHeq-qYwI: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] 12OHeq-qYwI: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] 12OHeq-qYwI: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:34:47,673 [WARNING]   [YTDLP] Error: ERROR: [youtube] 12OHeq-qYwI: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:34:47,673 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:34:47,717 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 09:34:53,259 [INFO]   [KUGOU] STD (128kbps) → FLAC: 一直很安静 - 阿桑_kg.flac (6.8 MB)
+2026-07-07 09:34:53,262 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:34:53,262 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:35:02,773 [INFO]   [NETEASE] Outer URL → FLAC: 紅蓮華 - LiSA_ne.flac (42.7 MB)
+2026-07-07 09:35:02,778 [INFO]         Quality score: 80 | .FLAC | NOT better than existing (80) — discarded
+2026-07-07 09:35:02,778 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:35:06,494 [INFO]   [NETEASE] Outer URL → FLAC: All The Things She Said - t.A.T.u_ne.flac (43.2 MB)
+2026-07-07 09:35:06,498 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:35:06,498 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:35:11,346 [INFO] [5/10] AUDIO  NetEase (网易云音乐) | score=80 | .FLAC | below target
+2026-07-07 09:35:11,346 [INFO] [5/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:35:11,346 [INFO] [5/10] DONE   一直很安静 - 阿桑
+2026-07-07 09:35:11,346 [INFO] [PROGRESS] 5/10 done  | audio=5  flac=5  24bit=0  lrc=5  kept=1
+2026-07-07 09:35:11,348 [INFO] [9/10] START  God Is A Girl - Groove Coverage  [existing: God Is A Girl - Groove Coverage.flac, score=80]
+2026-07-07 09:35:11,349 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:35:11,350 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:35:13,506 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 09:35:13,730 [INFO]   [NETEASE] Outer URL → FLAC: Gee (Korean Ver.) - 少女时代_ne.flac (42.8 MB)
+2026-07-07 09:35:13,735 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:35:13,735 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:35:13,910 [INFO]   [QQMUSIC] Downloaded FLAC: 紅蓮華 - LiSA_qq.flac (2.7 MB)
+2026-07-07 09:35:13,913 [INFO]         Quality score: 70 | .FLAC | NOT better than existing (80) — discarded
+2026-07-07 09:35:13,914 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 09:35:16,265 [INFO]   [LRC/lrclib] Found lyrics for: God Is A Girl
+2026-07-07 09:35:18,338 [INFO]   [QQMUSIC] No results for: Gee (Korean Ver.) - 少女时代
+2026-07-07 09:35:18,340 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 09:35:22,484 [INFO]   [KUGOU] STD (128kbps) → FLAC: All The Things She Said - t.A.T.u_kg.flac (41.4 MB)
+2026-07-07 09:35:22,488 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:35:22,488 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:35:25,338 [INFO]   [KUGOU] STD (128kbps) → FLAC: 紅蓮華 - LiSA_kg.flac (57.6 MB)
+2026-07-07 09:35:25,341 [INFO]         Quality score: 80 | .FLAC | NOT better than existing (80) — discarded
+2026-07-07 09:35:25,341 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:35:27,203 [INFO]   [KUGOU] STD (128kbps) → FLAC: Gee (Korean Ver.) - 少女时代_kg.flac (44.2 MB)
+2026-07-07 09:35:27,206 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:35:27,206 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:35:39,298 [INFO] [7/10] AUDIO  NetEase (网易云音乐) | score=80 | .FLAC | below target
+2026-07-07 09:35:39,298 [INFO] [7/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:35:39,298 [INFO] [7/10] DONE   All The Things She Said - t.A.T.u
+2026-07-07 09:35:39,298 [INFO] [PROGRESS] 6/10 done  | audio=6  flac=6  24bit=0  lrc=6  kept=1
+2026-07-07 09:35:39,299 [INFO] [10/10] START  奔跑 - 黄征 / 羽泉  [no existing file]
+2026-07-07 09:35:39,300 [INFO]   [1/10] Sockseek disabled
+2026-07-07 09:35:39,300 [INFO]   [2/10] Internet Archive ...
+2026-07-07 09:35:42,117 [INFO] [6/10] SKIP   No better quality found — keeping: 紅蓮華 - LiSA.flac (score=80)
+2026-07-07 09:35:42,117 [INFO] [6/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:35:42,117 [INFO] [6/10] DONE   紅蓮華 - LiSA
+2026-07-07 09:35:42,118 [INFO] [PROGRESS] 7/10 done  | audio=7  flac=7  24bit=0  lrc=7  kept=2
+2026-07-07 09:35:43,418 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:35:44,276 [INFO] [8/10] AUDIO  NetEase (网易云音乐) | score=80 | .FLAC | below target
+2026-07-07 09:35:44,277 [INFO] [8/10] LRC    Saved: Gee (Korean Ver.) - 少女时代.lrc
+2026-07-07 09:35:44,277 [INFO] [8/10] DONE   Gee (Korean Ver.) - 少女时代
+2026-07-07 09:35:44,277 [INFO] [PROGRESS] 8/10 done  | audio=8  flac=8  24bit=0  lrc=8  kept=2
+2026-07-07 09:35:46,285 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:35:49,100 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:God Is A Girl Groove Coverage official audio
+[download] Downloading playlist: God Is A Girl Groove Coverage official audio
+[youtube:search] query "God Is A Girl Groove Coverage official audio": Downloading web client config
+[youtube:search] query "God Is A Girl Groove Coverage official audio" page 1: Downloading API JSON
+[youtube:search] Playlist God Is A Girl Groove Coverage official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Z8UiBQzYDTY
+[youtube] Z8UiBQzYDTY: Downloading webpage
+[youtube] Z8UiBQzYDTY: Downloading web client config
+[youtube] Z8UiBQzYDTY: Downloading web player API JSON
+[youtube] Z8UiBQzYDTY: Downloading android player API JSON
+[youtube] Z8UiBQzYDTY: Downloading ios player API JSON
+WARNING: [youtube] Z8UiBQzYDTY: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] Z8UiBQzYDTY: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] Z8UiBQzYDTY: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] Z8UiBQzYDTY: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] Z8UiBQzYDTY: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:35:57,600 [WARNING]   [YTDLP] Error: ERROR: [youtube] Z8UiBQzYDTY: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:35:57,600 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:35:57,645 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 09:36:08,840 [INFO]   [LRC/NetEase] Found lyrics for: 奔跑
+2026-07-07 09:36:10,843 [INFO]   [NETEASE] Outer URL → FLAC: God Is A Girl - Groove Coverage_ne.flac (43.0 MB)
+2026-07-07 09:36:10,848 [INFO]         Quality score: 80 | .FLAC | NOT better than existing (80) — discarded
+2026-07-07 09:36:10,848 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:36:11,378 [INFO]   [3/10] Free Music Archive ...
+2026-07-07 09:36:14,202 [INFO]   [4/10] Jamendo ...
+2026-07-07 09:36:17,020 [INFO]   [5/10] YouTube (yt-dlp) ...
+[youtube:search] Extracting URL: ytsearch1:奔跑 黄征 official audio
+[download] Downloading playlist: 奔跑 黄征 official audio
+[youtube:search] query "奔跑 黄征 official audio": Downloading web client config
+2026-07-07 09:36:18,918 [INFO]   [QQMUSIC] Downloaded FLAC: God Is A Girl - Groove Coverage_qq.flac (2.1 MB)
+2026-07-07 09:36:18,921 [INFO]         Quality score: 70 | .FLAC | NOT better than existing (80) — discarded
+2026-07-07 09:36:18,922 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+[youtube:search] query "奔跑 黄征 official audio" page 1: Downloading API JSON
+[youtube:search] Playlist 奔跑 黄征 official audio: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=UhxiSSV1tSc
+[youtube] UhxiSSV1tSc: Downloading webpage
+[youtube] UhxiSSV1tSc: Downloading web client config
+[youtube] UhxiSSV1tSc: Downloading web player API JSON
+[youtube] UhxiSSV1tSc: Downloading android player API JSON
+[youtube] UhxiSSV1tSc: Downloading ios player API JSON
+WARNING: [youtube] UhxiSSV1tSc: Some android client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] UhxiSSV1tSc: ios client https formats require a GVS PO Token which was not provided. They will be skipped as they may yield HTTP Error 403. You can manually pass a GVS PO Token for this client with --extractor-args "youtube:po_token=ios.gvs+XXX". For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/PO-Token-Guide
+ERROR: [youtube] UhxiSSV1tSc: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:36:25,956 [WARNING]   [YTDLP] Error: ERROR: [youtube] UhxiSSV1tSc: Requested format is not available. Use --list-formats for a list of available formats
+2026-07-07 09:36:25,956 [INFO]   [6/10] Bandcamp (yt-dlp) ...
+2026-07-07 09:36:26,000 [INFO]   [7/10] NetEase Cloud Music (网易云音乐) ...
+2026-07-07 09:36:27,674 [INFO]   [KUGOU] STD (128kbps) → FLAC: God Is A Girl - Groove Coverage_kg.flac (35.8 MB)
+2026-07-07 09:36:27,677 [INFO]         Quality score: 80 | .FLAC | NOT better than existing (80) — discarded
+2026-07-07 09:36:27,677 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:36:44,561 [INFO] [9/10] SKIP   No better quality found — keeping: God Is A Girl - Groove Coverage.flac (score=80)
+2026-07-07 09:36:44,561 [INFO] [9/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:36:44,561 [INFO] [9/10] DONE   God Is A Girl - Groove Coverage
+2026-07-07 09:36:44,562 [INFO] [PROGRESS] 9/10 done  | audio=9  flac=9  24bit=0  lrc=9  kept=3
+2026-07-07 09:37:06,879 [INFO]   [NETEASE] Outer URL → FLAC: 奔跑 - 黄征_ne.flac (39.4 MB)
+2026-07-07 09:37:06,884 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:37:06,885 [INFO]   [8/10] QQ Music (QQ音乐) ...
+2026-07-07 09:37:13,899 [INFO]   [9/10] Kugou Music (酷狗音乐) ...
+2026-07-07 09:37:22,394 [INFO]   [KUGOU] STD (128kbps) → FLAC: 奔跑 - 黄征_kg.flac (34.2 MB)
+2026-07-07 09:37:22,397 [INFO]         Quality score: 80 | .FLAC | BETTER than existing (0)
+2026-07-07 09:37:22,397 [INFO]   [10/10] Migu Music (咪咕音乐) ...
+2026-07-07 09:37:39,107 [INFO] [10/10] AUDIO  NetEase (网易云音乐) | score=80 | .FLAC | below target
+2026-07-07 09:37:39,107 [INFO] [10/10] LRC    Already exists, skipped fetch.
+2026-07-07 09:37:39,107 [INFO] [10/10] DONE   奔跑 - 黄征 / 羽泉
+2026-07-07 09:37:39,107 [INFO] [PROGRESS] 10/10 done  | audio=10  flac=10  24bit=0  lrc=10  kept=3
+2026-07-07 09:37:39,110 [INFO] 
+============================================================
+2026-07-07 09:37:39,110 [INFO] All downloads complete!  Summary:
+2026-07-07 09:37:39,110 [INFO]   Total songs        : 10
+2026-07-07 09:37:39,110 [INFO]   Download success   : 10
+2026-07-07 09:37:39,110 [INFO]   Download failed    : 0
+2026-07-07 09:37:39,110 [INFO]   Kept (no upgrade)  : 3
+2026-07-07 09:37:39,111 [INFO]   FLAC / Lossless    : 10
+2026-07-07 09:37:39,111 [INFO]   24-bit/192kHz+     : 0
+2026-07-07 09:37:39,111 [INFO]   OST / Soundtrack   : 0
+2026-07-07 09:37:39,111 [INFO]   Lyrics             : 10
+2026-07-07 09:37:39,111 [INFO]   Report             : C:\Users\Administrator\WorkBuddy\2026-07-06-23-54-27\download_report.json
+2026-07-07 09:37:39,112 [INFO]   Log                : C:\Users\Administrator\WorkBuddy\2026-07-06-23-54-27\download_log.txt
+2026-07-07 09:37:39,112 [INFO] ============================================================
+2026-07-07 09:37:39,112 [INFO] 
+[FLAC / Lossless]  10 tracks:
+2026-07-07 09:37:39,112 [INFO]     1. 人间烟火 - 程响  [24bit/44-48kHz | NetEase (网易云音乐)]
+2026-07-07 09:37:39,112 [INFO]     2. 我想给你 - X玖少年团  [24bit/44-48kHz | ?]
+2026-07-07 09:37:39,112 [INFO]     3. 彩虹 - 乔楚熙  [24bit/44-48kHz | NetEase (网易云音乐)]
+2026-07-07 09:37:39,113 [INFO]     4. 月光 - 胡彦斌  [24bit/44-48kHz | NetEase (网易云音乐)]
+2026-07-07 09:37:39,113 [INFO]     5. 一直很安静 - 阿桑  [24bit/44-48kHz | NetEase (网易云音乐)]
+2026-07-07 09:37:39,113 [INFO]     6. All The Things She Said - t.A.T.u  [24bit/44-48kHz | NetEase (网易云音乐)]
+2026-07-07 09:37:39,113 [INFO]     7. 紅蓮華 - LiSA  [24bit/44-48kHz | ?]
+2026-07-07 09:37:39,113 [INFO]     8. Gee (Korean Ver.) - 少女时代  [24bit/44-48kHz | NetEase (网易云音乐)]
+2026-07-07 09:37:39,113 [INFO]     9. God Is A Girl - Groove Coverage  [24bit/44-48kHz | ?]
+2026-07-07 09:37:39,114 [INFO]    10. 奔跑 - 黄征 / 羽泉  [24bit/44-48kHz | NetEase (网易云音乐)]
+2026-07-07 09:37:39,114 [INFO] 
+[LYRICS]  10 lyrics downloaded:
+2026-07-07 09:37:39,114 [INFO]     1. 人间烟火 - 程响  [人间烟火 - 程响.lrc]
+2026-07-07 09:37:39,114 [INFO]     2. 我想给你 - X玖少年团  [我想给你 - X玖少年团.lrc]
+2026-07-07 09:37:39,114 [INFO]     3. 彩虹 - 乔楚熙  [彩虹 - 乔楚熙.lrc]
+2026-07-07 09:37:39,114 [INFO]     4. 月光 - 胡彦斌  [月光 - 胡彦斌.lrc]
+2026-07-07 09:37:39,115 [INFO]     5. 一直很安静 - 阿桑  [一直很安静 - 阿桑.lrc]
+2026-07-07 09:37:39,115 [INFO]     6. All The Things She Said - t.A.T.u  [All The Things She Said - t.A.T.u.lrc]
+2026-07-07 09:37:39,115 [INFO]     7. 紅蓮華 - LiSA  [紅蓮華 - LiSA.lrc]
+2026-07-07 09:37:39,115 [INFO]     8. Gee (Korean Ver.) - 少女时代  [Gee (Korean Ver.) - 少女时代.lrc]
+2026-07-07 09:37:39,115 [INFO]     9. God Is A Girl - Groove Coverage  [God Is A Girl - Groove Coverage.lrc]
+2026-07-07 09:37:39,115 [INFO]    10. 奔跑 - 黄征 / 羽泉  [奔跑 - 黄征 _ 羽泉.lrc]
