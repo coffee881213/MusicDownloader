@@ -22,6 +22,10 @@ link：https://yuanbao.tencent.com/
 Download Sockseek from github, or unzip Sockseek.zip file to project folder. If you have any questions
 about the download, please ask Tencent Yuanbao，link：https://yuanbao.tencent.com/
 
+
+4.编辑sockseek.conf文件， 任意填写帐号密码
+Edit sockseek.conf file，write any account and password.
+  
 4.运行run.bat文件          Run script file--run.bat
 如果遇到问题，可以咨询腾讯元宝，链接：https://yuanbao.tencent.com/， 可以贴出run.bat、download_music.py、
 sockseek_conf文件的所有内容，让它解决。
