@@ -18,7 +18,7 @@ Install Python, if you have any questions,such as where to download Python,pleas
 link：https://yuanbao.tencent.com/
 
 3.下载/解压Sockseek          Download/Unzip Sockseek
-从github下载Sockseek，或者解压Sockseek.zip文件到项目文件的当前目录，如果下载有问题，同样可以咨询腾讯元宝，
+从github下载Sockseek，或者解压Sockseek.zip文件到当前目录，如果下载有问题，同样可以咨询腾讯元宝，
 链接：https://yuanbao.tencent.com/
 Download Sockseek from github, or unzip Sockseek.zip file to project folder. If you have any questions
 about the download, please ask Tencent Yuanbao，link：https://yuanbao.tencent.com/
@@ -33,6 +33,11 @@ Run script file--run.bat
 sockseek_conf文件的所有内容，让它解决。
 If you have any questions, please ask Tencent Yuanbao，link：https://yuanbao.tencent.com/, you can
 copy and paste all the content in the files run.bat、download_music.py、sockseek_conf, and ask how to solve your problem.
+
+
+
+注意：运行过程中，如果有防火墙或杀毒软件拦截Sockseek，防火墙设置允许Sockseek连接网络，暂时禁用或退出杀毒软件。Sockseek也是开源软件，比较安全。
+Notice: If Sockseek is blocked by firewall or antivirus software, please disable or exit your antivirus software; Sockseek is open-source software and is relatively safe.
 
 
 其他问题，联系本人，邮箱：1092841490@qq.com, 微信：zpf1092841490
