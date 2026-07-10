@@ -35,6 +35,6 @@ copy and paste all the content in the files run.bat、download_music.py、sockse
 to solve your problem
 
 
-其他问题，联系本人，邮箱：1092841490@qq.com
-If you have other questions, contact me, my e-mail: 1092841490@qq.com  
+其他问题，联系本人，邮箱：1092841490@qq.com, 微信：zpf1092841490
+If you have other questions, contact me, my e-mail: 1092841490@qq.com, Wechat: zpf1092841490  
 </pre>
